@@ -1,0 +1,11 @@
+containsString() - bir stringin baska bir string icerip icermedigini kontrol eder
+equalTo() - iki degerin esitligini kontrol eder
+greaterThan() - bir degerin digerinden buyuk oldugunu kontrol eder
+lessThan() - bir degerin digerinden kucuk oldugunu kontrol eder
+
+hasItem() - bir collection un bir item a sahip olup olmadigini kontrol eder
+hasItems() - bir collection un methoda gonderilen birden fazla item a sahip olup olmadigin kontrol eder
+
+hasSize() - collection un size ini kontrol eder
+
+oneOf() - en az birine esit olma durumunu kontrol eder
